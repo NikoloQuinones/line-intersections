@@ -1,2 +1,2 @@
 # line-intersections
-algorithm for Introduction to Algorithms class
+Algorithm for Introduction to Algorithms class. Given two sets of points on two parallel lines where there is a line segment connecting corresponding points. Count the number of intersections.
