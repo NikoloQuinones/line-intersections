@@ -1,2 +1,2 @@
 # line-intersections
-Algorithm for Introduction to Algorithms class. Given two sets of points on two parallel lines where there is a line segment connecting corresponding points. Count the number of intersections.
+Algorithm for Introduction to Algorithms class. Given two sets of *n* points on two parallel lines where there is a line segment connecting corresponding points, count the number of intersections. Input starts with a line containing the number of instances of the problem. For each instance, the first line is the number of pairs of points. The next *n* numbers are the position of points in the first set on the first line. The next *n* numbers are the position of points in the second set on the second line.
